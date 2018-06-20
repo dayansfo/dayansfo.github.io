@@ -317,6 +317,15 @@ header.masthead p {
   font-size: 24px;
 }
 
-.padded{
+/* .padded{
   padding: 20px
-} 
+}  */
+
+.sized {
+  width: 712px;
+  height: 495px;
+}
+
+.marginCent {
+  margin: 0 25px;
+}
